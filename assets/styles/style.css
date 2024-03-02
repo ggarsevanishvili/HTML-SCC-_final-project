@@ -178,6 +178,10 @@ div.log-in {
     height: 40px;
 }
 
+button.user-button {
+    color: #181818;
+}
+
 div.user-icon i {font-size: 22px;}
 
 button.user-button {
