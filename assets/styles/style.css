@@ -582,6 +582,7 @@ input.home-submit {
     height: 38px;
     font-family: "avenir";
     background-color: #ffffff;
+    color: #181818;
     font-size: 15px;
     transition: 0.2s ease;
 }
