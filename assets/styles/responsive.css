@@ -109,6 +109,10 @@
     padding-bottom: 50px;
   }
 
+    section.cap-in-life {
+    gap: 3px;
+  }
+
   div.add-cart-button span {
     opacity: 1;
   }
@@ -182,6 +186,9 @@
   }
   div.add-cart-button span {
     opacity: 1;
+  }
+    section.cap-in-life {
+    gap: 8px;
   }
 
   header section div.flex-between {
